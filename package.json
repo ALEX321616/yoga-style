@@ -2,7 +2,6 @@
   "name": "yoga-style",
   "version": "1.0.0",
   "description": "yoga-style",
- 
     "homepage": "https://alex321616.github.io/yoga-style",
    "scripts": {
     "start": "parcel src/*.html",
