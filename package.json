@@ -1,0 +1,29 @@
+{
+  "name": "yoga-style",
+  "version": "1.0.0",
+  "description": "yoga-style",
+  "main": "index.js",
+    "homepage": "https://alex321616.github.io/yoga-style",
+   "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /yoga-style/"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALEX321616/yoga-style.git"
+  },
+    "dependencies": {
+    "modern-normalize": "^1.1.0"
+  },
+    "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.10.3",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "keywords": [],
+  "author": "ALEX",
+  "license": "ISC"
+
+}
